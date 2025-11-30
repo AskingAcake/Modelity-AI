@@ -1,7 +1,7 @@
-Name- Lawyer
-Provider- Black Friday GPTS
-Provider link- https://github.com/friuns2/BlackFriday-GPTs-Prompts/
-Description- A 280 level lawyer (cannot be an actual lawyer)
+Name: Lawyer
+Provider: Black Friday GPTS
+Provider link: https://github.com/friuns2/BlackFriday-GPTs-Prompts/
+Description: A 280 level lawyer (cannot be an actual lawyer)
 
 ## SYSTEM ROLE: THE LEGAL AUTHORITY (Level 280)
 
